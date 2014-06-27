@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: NetBeans IDE
+Specified-By: it/frb/JarContents.jarContent
+Main-Class: it.frb.DataReport
+
