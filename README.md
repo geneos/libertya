@@ -16,6 +16,12 @@ Instalación de Libertya - Ubuntu
     OpenJDK Runtime Environment (IcedTea6 1.13.1) (6b30-1.13.1-1ubuntu2~0.12.04.1)
     OpenJDK 64-Bit Server VM (build 23.25-b01, mixed mode)
 
+
+Referencia para instalar openjdk 6
+
+https://www.digitalocean.com/community/tutorials/instalar-java-en-ubuntu-con-apt-get-es
+
+
 Instalar postgres + pgadmin
 ===========================
 
