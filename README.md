@@ -19,8 +19,9 @@ Instalación de Libertya - Ubuntu
 
 Referencia para instalar openjdk 6
 
-https://www.digitalocean.com/community/tutorials/instalar-java-en-ubuntu-con-apt-get-es
-
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java6-installer
 
 Instalar postgres + pgadmin
 ===========================
